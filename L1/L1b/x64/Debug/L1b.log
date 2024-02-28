@@ -1,4 +1,0 @@
-﻿  L1b.cpp
-C:\Work\Uni\LP\L1b\L1b.cpp(100,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Work\Uni\LP\L1b\L1b.cpp(248,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  L1b.vcxproj -> C:\Work\Uni\LP\L1b\x64\Debug\L1b.exe
