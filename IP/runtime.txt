@@ -1,0 +1,258 @@
+(8threads)
+-------------------------------------------------------------------------------
+RUNTIME 1 m = 20 iter = 2
+Iteracijų skaičius: 2
+Tikslo funkcijos reiksme: 65.27310587478429
+Total runtime: 0.5069680213928223 seconds  
+
+Iteracijų skaičius: 2
+Tikslo funkcijos reiksme: 56.123379842110594
+Total runtime: 0.5040507316589355 seconds   
+
+Iteracijų skaičius: 2
+Tikslo funkcijos reiksme: 49.10184399504257
+Total runtime: 0.5211100578308105 seconds  
+
+Iteracijų skaičius: 2
+Tikslo funkcijos reiksme: 43.15955670236149
+Total runtime: 0.5461225509643555 seconds  
+
+Iteracijų skaičius: 2
+Tikslo funkcijos reiksme: 37.77229546593704
+Total runtime: 0.5991339683532715 seconds
+
+Iteracijų skaičius: 2
+Tikslo funkcijos reiksme: 32.7227204720782
+Total runtime: 0.6131374835968018 seconds
+
+Iteracijų skaičius: 2
+Tikslo funkcijos reiksme: 27.99172873908976
+Total runtime: 0.6461458206176758 seconds
+-------------------------------------------------------------------------------
+RUNTIME 2 m = 30 iter = 4
+Iteracijų skaičius: 4
+Tikslo funkcijos reiksme: 99.66464487086625
+Total runtime: 0.715679407119751 seconds
+
+Iteracijų skaičius: 4
+Tikslo funkcijos reiksme: 76.46775386094399
+Total runtime: 0.63214111328125 seconds
+
+Iteracijų skaičius: 4
+Tikslo funkcijos reiksme: 58.1539462103978
+Total runtime: 0.6111452579498291 seconds
+
+Iteracijų skaičius: 4
+Tikslo funkcijos reiksme: 42.30761776212637
+Total runtime: 0.6236579418182373 seconds
+
+Iteracijų skaičius: 4
+Tikslo funkcijos reiksme: 29.994843986082042
+Total runtime: 0.6466488838195801 seconds
+
+Iteracijų skaičius: 4
+Tikslo funkcijos reiksme: 22.045728444364908
+Total runtime: 0.6726670265197754 seconds
+
+Iteracijų skaičius: 4
+Tikslo funkcijos reiksme: 17.201695410513416
+Total runtime: 0.7111704349517822 seconds
+
+Iteracijų skaičius: 4
+Tikslo funkcijos reiksme: 14.044244576974368
+Total runtime: 0.8101828098297119 seconds
+-------------------------------------------------------------------------------
+RUNTIME 3 m = 40 iter = 8
+Iteracijų skaičius: 8
+Tikslo funkcijos reiksme: 100.9878843914475
+Total runtime: 1.4023141860961914 seconds  
+
+Iteracijų skaičius: 8
+Tikslo funkcijos reiksme: 57.549901678853104
+Total runtime: 0.984234094619751 seconds    
+
+Iteracijų skaičius: 8
+Tikslo funkcijos reiksme: 31.45826738817057
+Total runtime: 0.8827066421508789 seconds  
+
+Iteracijų skaičius: 8
+Tikslo funkcijos reiksme: 19.109339316260808
+Total runtime: 0.8192017078399658 seconds   
+
+Iteracijų skaičius: 8
+Tikslo funkcijos reiksme: 12.969261570700532
+Total runtime: 0.8103046417236328 seconds
+
+Iteracijų skaičius: 8
+Tikslo funkcijos reiksme: 9.75285713776969
+Total runtime: 0.8451881408691406 seconds
+
+Iteracijų skaičius: 8
+Tikslo funkcijos reiksme: 7.97772831321563
+Total runtime: 0.8593912124633789 seconds
+
+Iteracijų skaičius: 8
+Tikslo funkcijos reiksme: 6.975182353766151
+Total runtime: 0.9232213497161865 seconds
+-------------------------------------------------------------------------------
+RUNTIME 4 m = 50 iter = 16
+Iteracijų skaičius: 16
+Tikslo funkcijos reiksme: 67.53993870732468
+Total runtime: 3.2529373168945312 seconds
+
+Iteracijų skaičius: 16
+Tikslo funkcijos reiksme: 22.837476507918183
+Total runtime: 2.04188871383667 seconds
+
+Iteracijų skaičius: 16
+Tikslo funkcijos reiksme: 11.350569905688259
+Total runtime: 1.6553845405578613 seconds
+
+Iteracijų skaičius: 16
+Tikslo funkcijos reiksme: 7.916382651261759
+Total runtime: 1.4609375 seconds
+
+Iteracijų skaičius: 16
+Tikslo funkcijos reiksme: 6.772267192323534
+Total runtime: 1.2837932109832764 seconds
+
+Iteracijų skaičius: 16
+Tikslo funkcijos reiksme: 6.329315813005686
+Total runtime: 1.3023197650909424 seconds
+
+Iteracijų skaičius: 16
+Tikslo funkcijos reiksme: 6.08546696548283
+Total runtime: 1.2327854633331299 seconds
+
+Iteracijų skaičius: 16
+Tikslo funkcijos reiksme: 5.858085073666505
+Total runtime: 1.3233740329742432 seconds
+-------------------------------------------------------------------------------
+RUNTIME 5 m = 60 iter = 32
+Iteracijų skaičius: 32
+Tikslo funkcijos reiksme: 26.461830483300833
+Total runtime: 8.598663806915283 seconds    
+
+Iteracijų skaičius: 32
+Tikslo funkcijos reiksme: 9.871003071680223
+Total runtime: 4.792810440063477 seconds   
+
+Iteracijų skaičius: 32
+Tikslo funkcijos reiksme: 8.03803959186298
+Total runtime: 3.613422155380249 seconds  
+
+Iteracijų skaičius: 32
+Tikslo funkcijos reiksme: 7.417043330438311
+Total runtime: 3.0539097785949707 seconds  
+
+Iteracijų skaičius: 32
+Tikslo funkcijos reiksme: 6.744510459600617
+Total runtime: 2.5734589099884033 seconds
+
+Iteracijų skaičius: 32
+Tikslo funkcijos reiksme: 6.170786404640773
+Total runtime: 2.372831344604492 seconds
+
+Iteracijų skaičius: 32
+Tikslo funkcijos reiksme: 5.728029190976126
+Total runtime: 2.3551101684570312 seconds
+
+Iteracijų skaičius: 32
+Tikslo funkcijos reiksme: 5.45078186343473
+Total runtime: 2.3107829093933105 seconds
+-------------------------------------------------------------------------------
+RUNTIME 6 m = 70 iter = 64
+Iteracijų skaičius: 64
+Tikslo funkcijos reiksme: 16.46146910817734
+Total runtime: 22.293818473815918 seconds
+
+Iteracijų skaičius: 64
+Tikslo funkcijos reiksme: 13.685122509892443
+Total runtime: 12.287135124206543 seconds
+
+Iteracijų skaičius: 64
+Tikslo funkcijos reiksme: 12.432716632692511
+Total runtime: 8.963054895401001 seconds
+
+Iteracijų skaičius: 64
+Tikslo funkcijos reiksme: 11.712517280678213
+Total runtime: 7.120550155639648 seconds
+
+Iteracijų skaičius: 64
+Tikslo funkcijos reiksme: 11.396647392990193
+Total runtime: 5.92644739151001 seconds
+
+Iteracijų skaičius: 64
+Tikslo funkcijos reiksme: 11.277229584171199
+Total runtime: 5.459043264389038 seconds
+
+Iteracijų skaičius: 64
+Tikslo funkcijos reiksme: 11.268912180370101
+Total runtime: 4.990243434906006 seconds
+
+Iteracijų skaičius: 64
+Tikslo funkcijos reiksme: 11.268636139577632
+Total runtime: 5.021488428115845 seconds
+-------------------------------------------------------------------------------
+RUNTIME 7 m = 80 iter = 128
+Iteracijų skaičius: 128
+Tikslo funkcijos reiksme: 15.574257004492496
+Total runtime: 57.909491539001465 seconds
+
+Iteracijų skaičius: 128
+Tikslo funkcijos reiksme: 13.595616220975856
+Total runtime: 30.92430877685547 seconds
+
+Iteracijų skaičius: 128
+Tikslo funkcijos reiksme: 13.160313089694267
+Total runtime: 23.103236436843872 seconds
+
+Iteracijų skaičius: 128
+Tikslo funkcijos reiksme: 13.15171265415671
+Total runtime: 16.84145426750183 seconds
+
+Iteracijų skaičius: 128
+Tikslo funkcijos reiksme: 13.15170442453362
+Total runtime: 14.614391326904297 seconds
+
+Iteracijų skaičius: 128
+Tikslo funkcijos reiksme: 13.151704418063762
+Total runtime: 13.129984140396118 seconds
+
+Iteracijų skaičius: 128
+Tikslo funkcijos reiksme: 13.151704418063762
+Total runtime: 11.880791425704956 seconds
+
+Iteracijų skaičius: 128
+Tikslo funkcijos reiksme: 13.151704418063762
+Total runtime: 11.82153606414795 seconds
+-------------------------------------------------------------------------------
+RUNTIME 8 m = 100 iter = 256
+Iteracijų skaičius: 256
+Tikslo funkcijos reiksme: 19.550684777580276
+Total runtime: 185.17839980125427 seconds  
+
+Iteracijų skaičius: 256
+Tikslo funkcijos reiksme: 19.550684777580276
+Total runtime: 100.50155353546143 seconds  
+
+Iteracijų skaičius: 256
+Tikslo funkcijos reiksme: 19.550684777580276
+Total runtime: 68.5939564704895 seconds     
+
+Iteracijų skaičius: 256
+Tikslo funkcijos reiksme: 19.550684777580276
+Total runtime: 57.7033166885376 seconds     
+
+Iteracijų skaičius: 256
+Tikslo funkcijos reiksme: 19.550684777580276
+Total runtime: 43.72991633415222 seconds
+
+Iteracijų skaičius: 256
+Tikslo funkcijos reiksme: 19.550684777580276
+Total runtime: 42.650935649871826 seconds
+
+Iteracijų skaičius: 256
+Tikslo funkcijos reiksme: 19.550684777580276
+Total runtime: 38.52992534637451 seconds
+------------------------------------------------------------------------------
